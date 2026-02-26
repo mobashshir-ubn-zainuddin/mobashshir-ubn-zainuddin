@@ -40,6 +40,3 @@
 - Deployed on **Vercel (frontend)** & **Render (backend)**  
 
 🔗 Website Link: https://notes-manager-jade.vercel.app   
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobashshir-ubn-zainuddin&show_icons=true&theme=dark)

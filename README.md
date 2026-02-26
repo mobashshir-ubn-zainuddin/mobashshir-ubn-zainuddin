@@ -15,10 +15,70 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Typescript, Python, C, C++
-- **Libraries & Frameworks:** ReactJS, Node.js, Express.js, Vite, Axios, Flask, LangChain, Helmet.
-- **Databses:** PostgreSQL, SQL, MongoDB.
-- **Tools & Platforms:** Git, GitHub, GitLab, Vercel, Render, Netlify, Streamlit, Jupyter, Google Colab, Hugging Face.
+
+### 🔹 Programming Languages
+- HTML, CSS  
+- JavaScript, TypeScript  
+- Python, C, C++
+
+---
+
+### 🌐 Web Development
+
+#### Frameworks
+- ReactJS  
+- Node.js  
+- Express.js  
+- Flask  
+
+#### Libraries & Build Tools
+- Axios  
+- Helmet  
+- Vite  
+
+#### UI / Styling
+- Bootstrap  
+- Tailwind CSS  
+
+---
+
+### 🤖 Machine Learning, Deep Learning, NLP, & Generative AI
+
+#### Frameworks
+- PyTorch  
+- TensorFlow  
+- Keras  
+- JAX  
+- LangChain  
+
+#### Libraries
+- NumPy  
+- Pandas  
+- scikit-learn  
+- XGBoost  
+- CatBoost  
+- Hugging Face Transformers  
+- SentenceTransformers  
+- BERTopic  
+- OpenCV  
+- tqdm  
+
+---
+
+### 🗄️ Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+---
+
+### ⚙️ Tools & Platforms
+- Git, GitHub, GitLab  
+- Vercel, Render, Netlify  
+- Streamlit  
+- Jupyter Notebook  
+- Google Colab  
+- Hugging Face  
 
 ---
 

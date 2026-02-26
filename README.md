@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Mobashshir Zainuddin 👋  
 
-<!--
-**mobashshir-ubn-zainuddin/mobashshir-ubn-zainuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate at **IIT Kharagpur**  
+🧠 Full-Stack Developer | Data Analyst 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- **Core Areas:** Full-Stack Development, Machine Learning, Deep Learning, NLP, Generative AI, Data Structures & Algorithms, Competitive Programming.
+- Interested in **Web Developer, Data Analyst, and ML Engineer role**
+- Portfolio website: https://mobashshir.netlify.app/
+- 📧 Email: mobo@kgpian.iitkgp.ac.in
+- 🔗 LinkedIn: https://linkedin.com/in/mobashshirzainuddin
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** HTML, CSS, JavaScript, Typescript, Python, C, C++
+**Libraries & Frameworks:** ReactJS, Node.js, Express.js, Vite, Axios, Flask, LangChain, Helmet.
+**Databses:** PostgreSQL, SQL, MongoDB.
+**Tools & Platforms:** Git, GitHub, GitLab, Vercel, Render, Netlify, Streamlit, Jupyter, Google Colab, Hugging Face.
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Mine Water & Road Pump Management System(MERN)
+- Built a centralized, secure dashboard to monitor pumps, sumps, and haul roads consitions, eliminating fragmented tracking and reducing operational risk from flooding, equipment failure, and delayed response. 
+- Hardened backend security using IP-based rate limiting (global request throttling and stricter auth limits to mitigate brute-force attacks), Helmet security headers, and request payload size limits to prevent API abuse and DoS-style attacks.  
+- Deployed on **Vercel (frontend)** & **Render (backend)**  
+
+🔗 Website Link: https://mine-water-pump-sump-road.vercel.app   
+
+---
+
+### 🔹 Notes Manager (MERN)
+- Authenticated CRUD application with user-scoped notes  
+- Solved real-world CORS, env config & MongoDB connection issues  
+- Production deployment with CI auto-deploy
+- Deployed on **Vercel (frontend)** & **Render (backend)**  
+
+🔗 Website Link: https://notes-manager-jade.vercel.app   
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobashshir-ubn-zainuddin&show_icons=true&theme=dark)

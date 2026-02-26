@@ -1,52 +1,46 @@
-# Hi, I'm Mobashshir Zainuddin 👋  
-
-🎓 3rd year Undergraduate at **IIT Kharagpur**  
-🧠 Full-Stack Developer | Data Analyst 
+<h1 align="center">Hi 👋, I'm Mobashshir Zainuddin</h1>
+<h3 align="center">Full-Stack Developer | ML & AI Enthusiast | 3rd year UG student @ IIT Kharagpur</h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
+- 🎓 3rd year Integrated Dual Degree student, IIT Kharagpur
 - **Core Areas:** Full-Stack Development, Machine Learning, Deep Learning, NLP, Generative AI, Data Structures & Algorithms, Competitive Programming.
 - Interested in **Web Developer, Data Analyst, and ML Engineer role**
-- Portfolio website: https://mobashshir.netlify.app/
+- 🔗 Portfolio website: https://mobashshir.netlify.app/
 - 📧 Email: mobo@kgpian.iitkgp.ac.in
 - 🔗 LinkedIn: https://linkedin.com/in/mobashshirzainuddin
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 🔹 Programming Languages
-- HTML, CSS, JavaScript, TypeScript, Python, C, C++
+### 💻 Web Development
+**Frameworks:** ReactJS, Node.js, Express.js, Flask  
+**Libraries & Tools:** Axios, Helmet, Vite  
+**UI:** Bootstrap, Tailwind CSS  
 
-
-### 🌐 Web Development
-
-#### Frameworks
-- ReactJS, Node.js, Express.js, Flask  
-
-#### Libraries & Build Tools
-- Axios, Helmet, Vite  
-
-#### UI / Styling
-- Bootstrap, Tailwind CSS  
-
-
-### 🤖 Machine Learning, Deep Learning, NLP, & Generative AI
-
-#### Frameworks
-- PyTorch, TensorFlow, Keras, JAX, LangChain  
-
-#### Libraries
-- NumPy, Pandas, scikit-learn, XGBoost, CatBoost, Hugging Face Transformers, SentenceTransformers, BERTopic, OpenCV, tqdm  
-
+### 🤖 ML / DL / NLP / GenAI
+**Frameworks:** PyTorch, TensorFlow, Keras, JAX, LangChain  
+**Libraries:** NumPy, Pandas, scikit-learn, XGBoost, CatBoost, Hugging Face Transformers, SentenceTransformers, BERTopic, OpenCV  
 
 ### 🗄️ Databases
-- PostgreSQL, MySQL, MongoDB  
+PostgreSQL | MySQL | MongoDB  
 
+### ⚙️ Tools
+Git | GitHub | Gitlab | Vercel | Render | Netlify | Streamlit | Jupyter | Colab | Hugging Face  
 
-### ⚙️ Tools & Platforms
-- Git, GitHub, GitLab, Vercel, Render, Netlify, Streamlit, Jupyter Notebook, Google Colab, Hugging Face  
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mobashshir-ubn-zainuddin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mobashshir-ubn-zainuddin&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mobashshir-ubn-zainuddin&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 

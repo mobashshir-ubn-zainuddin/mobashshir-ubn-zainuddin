@@ -1,6 +1,6 @@
 # Hi, I'm Mobashshir Zainuddin 👋  
 
-🎓 Undergraduate at **IIT Kharagpur**  
+🎓 3rd year Undergraduate at **IIT Kharagpur**  
 🧠 Full-Stack Developer | Data Analyst 
 
 ---
@@ -19,7 +19,6 @@
 ### 🔹 Programming Languages
 - HTML, CSS, JavaScript, TypeScript, Python, C, C++
 
----
 
 ### 🌐 Web Development
 
@@ -32,7 +31,6 @@
 #### UI / Styling
 - Bootstrap, Tailwind CSS  
 
----
 
 ### 🤖 Machine Learning, Deep Learning, NLP, & Generative AI
 
@@ -42,12 +40,10 @@
 #### Libraries
 - NumPy, Pandas, scikit-learn, XGBoost, CatBoost, Hugging Face Transformers, SentenceTransformers, BERTopic, OpenCV, tqdm  
 
----
 
 ### 🗄️ Databases
 - PostgreSQL, MySQL, MongoDB  
 
----
 
 ### ⚙️ Tools & Platforms
 - Git, GitHub, GitLab, Vercel, Render, Netlify, Streamlit, Jupyter Notebook, Google Colab, Hugging Face  
@@ -63,7 +59,6 @@
 
 🔗 Website Link: https://mine-water-pump-sump-road.vercel.app   
 
----
 
 ### 🔹 Notes Manager (MERN)
 - Authenticated CRUD application with user-scoped notes  

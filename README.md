@@ -15,10 +15,10 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** HTML, CSS, JavaScript, Typescript, Python, C, C++
-**Libraries & Frameworks:** ReactJS, Node.js, Express.js, Vite, Axios, Flask, LangChain, Helmet.
-**Databses:** PostgreSQL, SQL, MongoDB.
-**Tools & Platforms:** Git, GitHub, GitLab, Vercel, Render, Netlify, Streamlit, Jupyter, Google Colab, Hugging Face.
+- **Languages:** HTML, CSS, JavaScript, Typescript, Python, C, C++
+- **Libraries & Frameworks:** ReactJS, Node.js, Express.js, Vite, Axios, Flask, LangChain, Helmet.
+- **Databses:** PostgreSQL, SQL, MongoDB.
+- **Tools & Platforms:** Git, GitHub, GitLab, Vercel, Render, Netlify, Streamlit, Jupyter, Google Colab, Hugging Face.
 
 ---
 

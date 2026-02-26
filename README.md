@@ -35,8 +35,8 @@ Git | GitHub | Gitlab | Vercel | Render | Netlify | Streamlit | Jupyter | Colab 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobashshir-ubn-zainuddin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mobashshir-ubn-zainuddin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> -->
   <img src="https://streak-stats.demolab.com?user=mobashshir-ubn-zainuddin&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 

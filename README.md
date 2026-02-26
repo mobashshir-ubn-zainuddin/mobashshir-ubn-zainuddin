@@ -17,68 +17,40 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming Languages
-- HTML, CSS  
-- JavaScript, TypeScript  
-- Python, C, C++
+- HTML, CSS, JavaScript, TypeScript, Python, C, C++
 
 ---
 
 ### 🌐 Web Development
 
 #### Frameworks
-- ReactJS  
-- Node.js  
-- Express.js  
-- Flask  
+- ReactJS, Node.js, Express.js, Flask  
 
 #### Libraries & Build Tools
-- Axios  
-- Helmet  
-- Vite  
+- Axios, Helmet, Vite  
 
 #### UI / Styling
-- Bootstrap  
-- Tailwind CSS  
+- Bootstrap, Tailwind CSS  
 
 ---
 
 ### 🤖 Machine Learning, Deep Learning, NLP, & Generative AI
 
 #### Frameworks
-- PyTorch  
-- TensorFlow  
-- Keras  
-- JAX  
-- LangChain  
+- PyTorch, TensorFlow, Keras, JAX, LangChain  
 
 #### Libraries
-- NumPy  
-- Pandas  
-- scikit-learn  
-- XGBoost  
-- CatBoost  
-- Hugging Face Transformers  
-- SentenceTransformers  
-- BERTopic  
-- OpenCV  
-- tqdm  
+- NumPy, Pandas, scikit-learn, XGBoost, CatBoost, Hugging Face Transformers, SentenceTransformers, BERTopic, OpenCV, tqdm  
 
 ---
 
 ### 🗄️ Databases
-- PostgreSQL  
-- MySQL  
-- MongoDB  
+- PostgreSQL, MySQL, MongoDB  
 
 ---
 
 ### ⚙️ Tools & Platforms
-- Git, GitHub, GitLab  
-- Vercel, Render, Netlify  
-- Streamlit  
-- Jupyter Notebook  
-- Google Colab  
-- Hugging Face  
+- Git, GitHub, GitLab, Vercel, Render, Netlify, Streamlit, Jupyter Notebook, Google Colab, Hugging Face  
 
 ---
 

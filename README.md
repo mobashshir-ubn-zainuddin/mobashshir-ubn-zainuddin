@@ -15,11 +15,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Web Development
+**Language:** HTML, CSS, JavaScript, TypeScript, Python
 **Frameworks:** ReactJS, Node.js, Express.js, Flask  
 **Libraries & Tools:** Axios, Helmet, Vite  
 **UI:** Bootstrap, Tailwind CSS  
 
 ### 🤖 ML / DL / NLP / GenAI
+**Language:** Python
 **Frameworks:** PyTorch, TensorFlow, Keras, JAX, LangChain  
 **Libraries:** NumPy, Pandas, scikit-learn, XGBoost, CatBoost, Hugging Face Transformers, SentenceTransformers, BERTopic, OpenCV  
 
@@ -36,10 +38,6 @@ Git | GitHub | Gitlab | Vercel | Render | Netlify | Streamlit | Jupyter | Colab 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mobashshir-ubn-zainuddin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=mobashshir-ubn-zainuddin&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mobashshir-ubn-zainuddin&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---

@@ -43,7 +43,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Mine Water, Pump & Haul Road Management System (MERN)
+### 🔹 MineOps Monitoring Suite (MERN)
 - Built a centralized, secure dashboard to monitor pumps, sumps, and haul roads consitions, eliminating fragmented tracking and reducing operational risk from flooding, equipment failure, and delayed response. 
 - Hardened backend security using IP-based rate limiting (global request throttling and stricter auth limits to mitigate brute-force attacks), Helmet security headers, and request payload size limits to prevent API abuse and DoS-style attacks.  
 - Deployed on **Vercel (frontend)** & **Render (backend)**  

@@ -36,7 +36,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mobashshir-ubn-zainuddin&theme=radical&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=mobashshir-ubn-zainuddin&theme=radical&hide_border=true&cache_seconds=60" width="60%" />
 </p>
 
 ---
